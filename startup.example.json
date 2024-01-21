@@ -1,0 +1,8 @@
+{
+  "token": "",
+  "interval": 30,
+  "chat_id": 0,
+  "namespaces": {
+    "default": "http://www.w3.org/2005/Atom"
+  }
+}
